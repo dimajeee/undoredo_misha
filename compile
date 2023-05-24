@@ -1,0 +1,5 @@
+mkdir build
+cd build
+cmake ..
+cmake --build . --config Release --target undoredo_exe
+./undoredo_exe

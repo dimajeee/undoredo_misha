@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.2 FATAL_ERROR)
 
-project(und)
+project(undoredo)
 
-add_executable(und_exe 
+add_executable(undoredo_exe 
     src/Interface.cpp
     src/Interface.h
     src/List.cpp
